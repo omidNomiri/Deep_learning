@@ -163,3 +163,5 @@ cython_debug/
 
 # dataset
 face_recognition/input/PersianFace
+# model
+face_recognition/PersianFaces_49ep.keras
