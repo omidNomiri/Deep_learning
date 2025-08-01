@@ -66,8 +66,6 @@ Each script:
   * Confusion matrix
   * Accuracy & loss plots over epochs
 
-You can preview a random image with its predicted and actual label.
-
 ### Metrics Output
 
 | Model                                     | Accuracy | Loss | val Accuracy | Val Loss | test Accuracy | test Loss |
