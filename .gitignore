@@ -163,5 +163,7 @@ cython_debug/
 
 # dataset
 face_recognition/input/PersianFace
+CNN_regression/UTKFace_dataset
+CNN_regression/houses_dataset
 # model
 face_recognition/PersianFaces_49ep.keras
